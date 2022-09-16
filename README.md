@@ -1,6 +1,7 @@
 # flutter_calender
 
-A new Flutter project.
+A new Flutter project. 
+Access the main code in main.dart
 
 ## Getting Started
 
