@@ -1,7 +1,7 @@
 # flutter_calender
 
 A new Flutter project. 
-Access the main code in main.dart
+Access the main code in CalenderApp/lib/main.dart .
 
 ## Getting Started
 
